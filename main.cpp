@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;
 
-//#include "asunto.h"
+using namespace std;
 
 #include "kerros.h"
 #include "katutaso.h"
@@ -15,8 +14,9 @@ int main()
     objKatutaso.maaritaAsunnot();
 
     Asunto objAsunto;
-    objAsunto.asukasMaara=2;
-    objAsunto.neliot=100;
+    objAsunto.asukasMaara;
+    objAsunto.neliot;
+
 
 
     return 0;

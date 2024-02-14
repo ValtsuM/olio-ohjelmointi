@@ -7,10 +7,11 @@
 class Katutaso : public Kerros
 {
 public:
-    Katutaso() {
-        cout << "--Katutaso luotu--"<<endl;
+    Katutaso(){
+        cout<<"Katutaso luotu"<<endl;
     }
-    ~Katutaso() {
+    ~Katutaso(){
+
     }
 
     Asunto as1;
@@ -21,4 +22,3 @@ public:
 };
 
 #endif // KATUTASO_H
-
