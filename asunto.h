@@ -1,4 +1,3 @@
-
 #ifndef ASUNTO_H
 #define ASUNTO_H
 
@@ -9,7 +8,7 @@ class Asunto
 {
 public:
     Asunto(){
-        cout << "asunto luotu" <<endl; // asunto = huone\huoneisto
+        cout<<"asunto luotu"<<endl;
     }
     ~Asunto(){
     }

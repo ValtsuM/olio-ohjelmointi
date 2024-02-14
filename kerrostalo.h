@@ -13,9 +13,10 @@ private:
 
 public:
     Kerrostalo() {
-        cout << "Kerrostalo luotu"<<endl;
+        cout<<"Kerrostalo luotu"<<endl;
     }
     ~Kerrostalo() {
+
     }
 
     double laskeKulutus(double);

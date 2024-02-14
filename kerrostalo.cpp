@@ -1,6 +1,5 @@
 #include "kerrostalo.h"
 
-//kerrostalo::kerrostalo()
-//{
+//Kerrostalo::Kerrostalo() {
 
 //}
